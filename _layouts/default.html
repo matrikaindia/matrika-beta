@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Matrika India</title>
+
+    <link href="/admin/favicon.png" rel="icon" type="image/png"/>
+
+    <link rel="stylesheet" type="text/css" href="//assets/css/bootstrap.css"/>
+    <link rel="stylesheet" type="text/css" href="//assets/css/bootstrap-theme.css"/>
+    <link rel="stylesheet" type="text/css" href="//assets/css/matrika.css"/>
+
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/index.html">Matrika India</a>
+			</div>
+
+			<!--
+			<div class="navbar-collapse collapse">
+				<p class="nav navbar-nav navbar-text navbar-right">
+					Welcome! Current time is <strong>Mon Jun 16 23:36:54 PDT 2014
+				</strong>
+				</p>
+			</div>
+			-->
+		</div>
+	</div>
+
+	<div class="container-fluid" style="min-height:100%">
+		<div class="row mainBodyContainer">
+			<div class="col-sm-3 col-md-2 sidebar">
+				<ul class="nav nav-sidebar">
+					<li><a href="#">Home</a></li>
+					<li><a href="#">About Us</a></li>
+					<li><a href="#">Resources</a></li>
+					<li><a href="#">Blog</a></li>
+					<li><a href="#">Contact Us</a></li>
+				</ul>
+
+				<ul class="nav nav-sidebar">
+					<li><a href="#">MATRIKA: A Project to Reclaim Indigenous Midwifery</a></li>
+					<li><a href="#">The Traditional Birth World in North India</a></li>
+					<li><a href="#">Complications, Safety, Caesarians, and the Politics of Birth</a></li>
+					<li><a href="#">Reproductive Health Matters and Perspectives</a></li>
+					<li><a href="#">Featured Articles & Archvies</a></li>
+					<li><a href="#">Yoni Knowledge</a></li>
+					<li><a href="#">Matrika Workshops & Transcripts</a></li>
+					<li><a href="#">Discussions</a></li>
+					<li><a href="#">Upcoming Events</a></li>
+					<li><a href="#">Jeeva Pilot Project Report (June 2010)</a></li>
+				</ul>
+			</div>
+
+			<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+				{{ content }}
+			</div>
+		</div>
+	</div>
+
+	<div id="footer">
+		<br/>
+		<p class="text-muted"> 
+			Copyright &copy; 2007-2014, MATRIKA, New Delhi, India
+		</p>
+	</div>
+</body>
+</html>
