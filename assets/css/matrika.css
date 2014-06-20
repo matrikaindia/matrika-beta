@@ -130,3 +130,7 @@ select[multiple] {
 .urlRow {
     padding-bottom: 10px;
 }
+
+#mainContainer {
+    line-height: 24px;
+}
