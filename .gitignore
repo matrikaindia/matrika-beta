@@ -11,7 +11,6 @@ profile
 # Flash Builder noise
 .actionScriptProperties
 .flexProperties
-.project
 .classpath
 .settings
 bin/*
