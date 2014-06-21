@@ -152,3 +152,11 @@ img {
 .italic {
 	font-style: italic;
 }
+.thumbnail {
+	border: none;
+}
+.thumbnail .caption {
+	padding: 0;
+	text-align: center;
+	font-size: 13px;
+}
