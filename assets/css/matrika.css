@@ -154,6 +154,8 @@ img {
 }
 .thumbnail {
 	border: none;
+	box-shadown: none;
+	-webkit-box-shadow: none;
 }
 .thumbnail .caption {
 	padding: 0;
