@@ -27,3 +27,5 @@ docs/*
 desktop.ini
 
 # Project specific
+_site/*
+
