@@ -162,3 +162,10 @@ img {
 	text-align: center;
 	font-size: 13px;
 }
+.sidebar {
+    background-color: #882222;
+}
+
+.nav-sidebar > li > a {
+    color: #ddbb99;
+}
