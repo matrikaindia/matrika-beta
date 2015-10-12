@@ -3,19 +3,22 @@ layout: default
 title: MATRIKA Disclaimer
 ---
 
-<h2>Disclaimer</h2>
+## Disclaimer
+
 Please read these terms and conditions carefully. By accessing this site
 and any contents thereof, you agree to be bound by the terms and
 conditions below. If you do not agree to the terms and conditions below,
 do not access this site, or any contents thereof.
-<br>
-<strong>COPYRIGHT &copy; 2007-2014 MATRIKA. ALL RIGHTS RESERVED.</strong>
-<br>
+
+```
+COPYRIGHT &copy; 2007-2015 MATRIKA. ALL RIGHTS RESERVED.
+```
+
 Copyright in the pages and screens displaying the pages, and in the
 information and material therein and in their arrangement, is owned by
 MATRIKA unless otherwise indicated.
 
-<h2>Use of Information &amp; Materials</h2>
+### Use of Information &amp; Materials
 
 The information and materials contained in this site and pages - and the
 terms, conditions, and descriptions that appear are subject to change.
@@ -23,7 +26,7 @@ You may use the information, content, and material for your use, but you
 would have to acknowledge the name of MATRIKA if you intend to use the
 information for citations.
 
-<h2>No Warranty</h2>
+### No Warranty
 
 The information and materials contained in this site, including text,
 graphics, links, documents or other items - are provided "as is," and
