@@ -11,7 +11,7 @@ conditions below. If you do not agree to the terms and conditions below,
 do not access this site, or any contents thereof.
 
 ```
-COPYRIGHT &copy; 2007-2015 MATRIKA. ALL RIGHTS RESERVED.
+COPYRIGHT (C) 2007-2015 MATRIKA. ALL RIGHTS RESERVED.
 ```
 
 Copyright in the pages and screens displaying the pages, and in the
